@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Dekka Blog</title>
+    <link>https://john-dekka.github.io/</link>
+    <description>Recent content on John Dekka Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>John Dekka Blog © 2023</copyright>
+    <lastBuildDate>Thu, 23 Feb 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://john-dekka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JDB ist online!</title>
+      <link>https://john-dekka.github.io/posts/erster-eintrag/jdb-ist-online/</link>
+      <pubDate>Thu, 23 Feb 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://john-dekka.github.io/posts/erster-eintrag/jdb-ist-online/</guid>
+      <description>Na da, der John Dekka Blog ist online auf GitHub Pages!
+Wie in der Info beschrieben wird der Blog wurde angetrieben von Hugo, Terminal Theme von panr. Der Blog Quellcode ist auf GitHub verfügbar und veröffentlicht unter diesen Lizenzbedingungen.
+Der Blog stellt sowas wie meine eigene private Bibliothek mit Dingen die mich interessieren. Ich stelle mir kein eigenes Zeitziel wann und wie oft ich etwas veröffentliche. Wenn&amp;rsquo;et passt, dann passt&amp;rsquo;et. :)</description>
+      <content>&lt;p&gt;Na da, der &lt;code&gt;John Dekka Blog&lt;/code&gt; ist online auf &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io&#34;&gt;GitHub&lt;/a&gt; Pages!&lt;/p&gt;
+&lt;p&gt;Wie in der &lt;a href=&#34;https://john-dekka.github.io/info&#34;&gt;Info&lt;/a&gt; beschrieben wird der Blog wurde angetrieben von &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, Terminal Theme von &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr&lt;/a&gt;. Der Blog Quellcode ist auf &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io&#34;&gt;GitHub&lt;/a&gt; verfügbar und veröffentlicht unter &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io/blob/master/LIZENZ.md&#34;&gt;diesen&lt;/a&gt; Lizenzbedingungen.&lt;/p&gt;
+&lt;p&gt;Der Blog stellt sowas wie meine eigene private Bibliothek mit Dingen die mich interessieren. Ich stelle mir kein eigenes Zeitziel wann und wie oft ich etwas veröffentliche. Wenn&amp;rsquo;et passt, dann passt&amp;rsquo;et. :)&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://john-dekka.github.io/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://john-dekka.github.io/info/</guid>
+      <description>Ei Tach! Schee dassde do bischt!
+Mein Name ist John Dekka und ich bin begeisterter Nerd aus dem idyllischen Saarland, der viel Zeit damit verbringt, am Computer zu programmieren, Linux zu meistern und natürlich auch die echte Welt zu erkunden.
+Ich bin stolz darauf, ein echter Linux-Enthusiast zu sein! Höat sich komisch an, is awa mó so. 🤔
+Mein Rechner wird mit Nobara 37 KDE befeuert, und das macht sich so richtig schick!</description>
+      <content>&lt;p&gt;Ei Tach!
+Schee dassde do bischt!&lt;/p&gt;
+&lt;p&gt;Mein Name ist John Dekka und ich bin begeisterter Nerd aus dem idyllischen Saarland, der viel Zeit damit verbringt, am Computer zu programmieren, Linux zu meistern und natürlich auch die echte Welt zu erkunden.&lt;/p&gt;
+&lt;p&gt;Ich bin stolz darauf, ein echter Linux-Enthusiast zu sein! Höat sich komisch an, is awa mó so. 🤔&lt;/p&gt;
+&lt;p&gt;Mein Rechner wird mit &lt;a href=&#34;https://nobaraproject.org/&#34;&gt;Nobara 37&lt;/a&gt; KDE befeuert, und das macht sich so &lt;code&gt;richtig schick&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;Meine Leidenschaft gilt nicht nur den Computern, ich interessiere mich sehr für das Universum, seine Grenzen und was sich dahinter verbirgt. Albert Einsteins und Nikola Teslas Theorien über Raumzeit und die Gesetze der Physik faszinieren mich immer wieder.&lt;/p&gt;
+&lt;p&gt;Auch technologisch kann ich mich als sehr begeisterungsfähig bezeichnen. Nicht nur um mein Verständnis dafür zu vertiefen, sondern auch um komplexe Probleme schneller und effektiver lösen zu können.&lt;/p&gt;
+&lt;p&gt;Außerdem interessiere ich mich für jeglichen Sci_Fi Kram. Eines meiner Lieblingsbücher ist ohne Zweifel &amp;ldquo;&lt;a href=&#34;https://de.m.wikipedia.org/wiki/Ready_Player_One_(Roman)&#34;&gt;Ready Player One&lt;/a&gt;&amp;rdquo; von Ernest Cline.&lt;/p&gt;
+&lt;p&gt;In meiner Freizeit mache ich außerdem noch ein paar andere Sachen, wie zum Beispiel: Ich repariere gerne Sachen, ich koche und bereite polnische oder saarländische Speisen zu, ich mache selbstgemachte Marmelade und ich backe auch gerne Roggenbrot.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Das &amp;ldquo;erdet&amp;rdquo; mich irgendwie und ich kann so richtig abschalten und den Alltag vergessen. Ab und an bastel ich auch an ein paar kleineren Projekten. 🤏&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All diese Interessen findest Du also in meinem Blog wieder. Ich stelle hier meine verschiedenen Interessen, Projekte und Erfahrungen vor, die ich über das Jahr hinweg gesammelt habe. Außerdem teile ich meine Meinungen, Erfahrungen und Erlebnisse, die ich in meiner Freizeit oder einfach durch Experimente und persönliche Erfahrungen erlebt habe.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In meinem Blog erhälst du also einen Einblick in meine große kleine Welt!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ich hoffe dass ich dir mit diesem Blog weitere Inspirationen und Einblicke in die unterschiedlichsten Themen und Bereiche der Technologie geben kann. Schau doch mal vorbei und ich bin mir sicher, du findest hier etwas, dass du interessant findest und vielleicht sogar besonders motiviert!&lt;/p&gt;
+&lt;p&gt;Danke für die Aufmerksamkeit, un vill Spass! 😝&lt;/p&gt;
+&lt;h1 id=&#34;informationen&#34;&gt;Informationen&lt;/h1&gt;
+&lt;p&gt;Der Blog wurde veröffentlicht am 23.02.2023, wird angetrieben von &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, Terminal Theme von &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr&lt;/a&gt;. Der Blog Quellcode ist auf &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io&#34;&gt;GitHub&lt;/a&gt; verfügbar und veröffentlicht unter der &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io/blob/master/LICENSE&#34;&gt;AGPLv3&lt;/a&gt; Lizenz.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://john-dekka.github.io/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://john-dekka.github.io/kontakt/</guid>
+      <description>Github: John-Dekka</description>
+      <content>&lt;p&gt;Github: &lt;a href=&#34;https://github.com/John-Dekka&#34;&gt;John-Dekka&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

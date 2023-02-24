@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on John Dekka Blog</title>
+    <link>https://john-dekka.github.io/tags/</link>
+    <description>Recent content in Tags on John Dekka Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>John Dekka Blog © 2023</copyright>
+    <lastBuildDate>Thu, 23 Feb 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://john-dekka.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://john-dekka.github.io/tags/blog/</link>
+      <pubDate>Thu, 23 Feb 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://john-dekka.github.io/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>JDB</title>
+      <link>https://john-dekka.github.io/tags/jdb/</link>
+      <pubDate>Thu, 23 Feb 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://john-dekka.github.io/tags/jdb/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>John Dekka Blog</title>
+      <link>https://john-dekka.github.io/tags/john-dekka-blog/</link>
+      <pubDate>Thu, 23 Feb 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://john-dekka.github.io/tags/john-dekka-blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
