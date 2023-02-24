@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on John Dekka Blog</title>
-    <link>https://john-dekka.github.io/posts/</link>
-    <description>Recent content in Posts on John Dekka Blog</description>
+    <title>Ernest Cline on John Dekka Blog</title>
+    <link>https://john-dekka.github.io/tags/ernest-cline/</link>
+    <description>Recent content in Ernest Cline on John Dekka Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>John Dekka Blog © 2023</copyright>
-    <lastBuildDate>Fri, 24 Feb 2023 20:11:34 +0100</lastBuildDate><atom:link href="https://john-dekka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 20:11:34 +0100</lastBuildDate><atom:link href="https://john-dekka.github.io/tags/ernest-cline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: Ready Player One</title>
       <link>https://john-dekka.github.io/posts/ready-player-one/ready-player-one/</link>
@@ -28,21 +28,6 @@ Die Geschichte ist in einer postapokalyptischen Vision von 2045 angesiedelt, in 
 &lt;blockquote&gt;
 &lt;p&gt;Bildquelle: &lt;a href=&#34;https://en.wikipedia.org/wiki/Ready_Player_One&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>JDB ist online!</title>
-      <link>https://john-dekka.github.io/posts/erster-eintrag/jdb-ist-online/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://john-dekka.github.io/posts/erster-eintrag/jdb-ist-online/</guid>
-      <description>Na da, der John Dekka Blog ist online auf GitHub Pages!
-Wie in der Info beschrieben wird der Blog wurde angetrieben von Hugo, Terminal Theme von panr. Der Blog Quellcode ist auf GitHub verfügbar und veröffentlicht unter diesen Lizenzbedingungen.
-Der Blog stellt sowas wie meine eigene private Bibliothek dar, mit Dingen die mich interessieren. Ich stelle mir kein eigenes Zeitziel wann und wie oft ich etwas veröffentliche. Wenn&amp;rsquo;et passt, dann passt&amp;rsquo;et.</description>
-      <content>&lt;p&gt;Na da, der &lt;code&gt;John Dekka Blog&lt;/code&gt; ist online auf &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io&#34;&gt;GitHub&lt;/a&gt; Pages!&lt;/p&gt;
-&lt;p&gt;Wie in der &lt;a href=&#34;https://john-dekka.github.io/info&#34;&gt;Info&lt;/a&gt; beschrieben wird der Blog wurde angetrieben von &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, Terminal Theme von &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr&lt;/a&gt;. Der Blog Quellcode ist auf &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io&#34;&gt;GitHub&lt;/a&gt; verfügbar und veröffentlicht unter &lt;a href=&#34;https://github.com/John-Dekka/john-dekka.github.io/blob/master/LIZENZ.md&#34;&gt;diesen&lt;/a&gt; Lizenzbedingungen.&lt;/p&gt;
-&lt;p&gt;Der Blog stellt sowas wie meine eigene private Bibliothek dar, mit Dingen die mich interessieren. Ich stelle mir kein eigenes Zeitziel wann und wie oft ich etwas veröffentliche. Wenn&amp;rsquo;et passt, dann passt&amp;rsquo;et. :)&lt;/p&gt;
 </content>
     </item>
     
