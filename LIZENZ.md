@@ -9,21 +9,21 @@ Copyright (c) 2023 John Dekka
 <br></br>
 
 ### Bilder
->Sofern nicht anders genannt, liegt das Copyright für alle Bilder in den Unterverzeichnissen von `/posts` bei John Dekka. Alle Rechte vorbehalten.
+>Sofern nicht anders genannt, liegt das Copyright für alle Bilder in den Unterverzeichnissen von `/images` bei John Dekka. Alle Rechte vorbehalten.
 
 <br></br>
 ### Videos
->Sofern nicht anders genannt, liegt das Copyright für alle Videos in den Unterverzeichnissen von `/posts` bei John Dekka. Alle Rechte vorbehalten.
+>Sofern nicht anders genannt, liegt das Copyright für alle Videos in den Unterverzeichnissen von `/videos` bei John Dekka. Alle Rechte vorbehalten.
 
 <br></br>
 
 ### Screenshots
->Ich weiß nicht, wer die Urheberrechte für Spiel-Screenshots innerhalb von `/posts` hat. Bin ich das oder der Spieleentwickler/Publisher? Ich möchte mich nicht mit großen Unternehmen anlegen, deshalb gebe ich keine Lizenz für diese Dateien an.
+>Ich weiß nicht, wer die Urheberrechte für Spiel-Screenshots hat. Bin ich das oder der Spieleentwickler/Publisher? Ich möchte mich nicht mit großen Unternehmen anlegen, deshalb gebe ich keine Lizenz für diese Dateien an.
 
 <br></br>
 
 ### Logos
->Alle Logos in den Unterverzeichnissen von `/posts` unterliegen dem Copyright der jeweiligen Unternehmen.
+>Alle Logos unterliegen dem Copyright der jeweiligen Unternehmen.
 
 <br></br>
 
